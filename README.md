@@ -46,13 +46,13 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 1. **Clonar el repositorio:**
 
     ```bash
-    git clone https://github.com/TuUsuario/FilmsPage.git
+    git clone [https://github.com/TuUsuario/NadrianS_Cine.git
     ```
 
 2. **Navegar al directorio del proyecto:**
 
     ```bash
-    cd FilmsPage
+    cd NadrianS_Cine
     ```
 
 3. **Instalar las dependencias:**
