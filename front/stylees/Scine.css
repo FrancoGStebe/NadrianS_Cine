@@ -1,0 +1,23 @@
+body {
+    background-image: url(../logo/fondo_cine.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text-font {
+    width: 1000px;
+    background: rgba(0, 0, 0, .4);
+    margin: auto;
+    margin-top: 4%;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    border-radius: 15px;
+}
+
+ul li {
+    margin-bottom: 20px;
+}
