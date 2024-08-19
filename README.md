@@ -77,3 +77,8 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 6. **Abrir el proyecto en tu navegador:**
    - Visita `http://localhost:3000` para ver la aplicación en acción.
+  
+7. ## Autor
+
+Este proyecto fue desarrollado por Franco Gabriel Stebe. Si tienes alguna pregunta o necesitas más información, no dudes en ponerte en contacto conmigo.
+
